@@ -1,0 +1,227 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Component_1__1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 948.36px;
+	height: 937.5px;
+	left: -83.216px;
+	top: -33.5px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(31,166,226,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 949.32px;
+	height: 938.417px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MEDI_CARE {
+	left: 85px;
+	top: 164px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#H_O_S_P_I_T_A_L_S {
+	left: 122px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#purepngcom-doctorsdoctorsdocto {
+	position: absolute;
+	width: 688px;
+	height: 348px;
+	left: 7px;
+	top: 420px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(31,166,226,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 865px;
+	top: 58px;
+}
+#Component_2__1 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1109px;
+	top: 58px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#SIGN_IN {
+	left: 915px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#SIGN_UP {
+	left: 1155px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 330px;
+	height: 158px;
+	left: 915px;
+	top: 348px;
+	overflow: visible;
+}
+#MEDI_CARE_r {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(104,127,138,1);
+}
+#H_O_S_P_I_T_A_L_S_s {
+	left: 201px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Lt BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(104,127,138,1);
+}
+#Thank_you_for_joining_the_larg {
+	mix-blend-mode: darken;
+	left: 0px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Swis721 Lt BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(104,127,138,1);
+}
+#M {
+	opacity: 0.07;
+	left: 885px;
+	top: 327px;
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Stencil Std;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 267px;
+	color: rgba(31,166,226,1);
+}
