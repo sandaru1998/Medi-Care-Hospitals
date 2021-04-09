@@ -24,13 +24,24 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
 #Component_1__1 {
+	opacity: 0.6;
 	mix-blend-mode: normal;
 	position: absolute;
 	width: 948.36px;
 	height: 937.5px;
 	left: -83.216px;
-	top: -33.5px;
+	top: -30.5px;
 	overflow: visible;
 }
 #Path_1 {
@@ -108,7 +119,7 @@
 	position: absolute;
 	width: 179px;
 	height: 58px;
-	left: 1109px;
+	left: 1122px;
 	top: 58px;
 	overflow: visible;
 }
@@ -136,6 +147,10 @@
 	overflow: visible;
 	width: 80px;
 	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign_in.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
 	font-style: normal;
@@ -144,7 +159,7 @@
 	color: rgba(255,255,255,1);
 }
 #SIGN_UP {
-	left: 1155px;
+	left: 1168px;
 	top: 72px;
 	position: absolute;
 	overflow: visible;
@@ -159,13 +174,13 @@
 }
 #Group_1 {
 	position: absolute;
-	width: 330px;
-	height: 158px;
-	left: 915px;
-	top: 348px;
+	width: 328px;
+	height: 105px;
+	left: 945px;
+	top: 368px;
 	overflow: visible;
 }
-#MEDI_CARE_r {
+#MEDI_CARE_s {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -179,7 +194,7 @@
 	font-size: 30px;
 	color: rgba(104,127,138,1);
 }
-#H_O_S_P_I_T_A_L_S_s {
+#H_O_S_P_I_T_A_L_S_t {
 	left: 201px;
 	top: 9px;
 	position: absolute;
@@ -193,35 +208,35 @@
 	font-size: 15px;
 	color: rgba(104,127,138,1);
 }
-#Thank_you_for_joining_the_larg {
+#Largest_Hospital_Network_with_ {
 	mix-blend-mode: darken;
 	left: 0px;
-	top: 56px;
+	top: 57px;
 	position: absolute;
 	overflow: visible;
-	width: 331px;
+	width: 329px;
 	white-space: nowrap;
 	line-height: 28px;
-	margin-top: -6.5px;
+	margin-top: -5.5px;
 	text-align: left;
 	font-family: Swis721 Lt BT;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 17px;
 	color: rgba(104,127,138,1);
 }
 #M {
 	opacity: 0.07;
-	left: 885px;
-	top: 327px;
+	left: 877px;
+	top: 315px;
 	position: absolute;
 	overflow: visible;
-	width: 392px;
+	width: 465px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Stencil Std;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 267px;
+	font-size: 317px;
 	color: rgba(31,166,226,1);
 }

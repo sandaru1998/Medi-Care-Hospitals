@@ -1,0 +1,326 @@
+.mediaViewInfo {
+	--web-view-name: Sign in;
+	--web-view-id: Sign_in;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_in;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_in {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sign in;
+	--web-view-id: Sign_in;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_2 {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 991.909px;
+	height: 882.827px;
+	left: 398.757px;
+	top: -56.697px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MEDI_CARE_z {
+	left: 85px;
+	top: 164px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(120,201,237,1);
+}
+#H_O_S_P_I_T_A_L_S_ {
+	left: 122px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(120,201,237,1);
+}
+#SIGN_IN_ {
+	left: 823px;
+	top: 220px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 279px;
+}
+#Rectangle_4 {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 391px;
+}
+#ID93-938050_png-file-transpare {
+	opacity: 0.51;
+	mix-blend-mode: darken;
+	position: absolute;
+	width: 29px;
+	height: 35px;
+	left: 844px;
+	top: 294px;
+	overflow: visible;
+}
+#images {
+	opacity: 0.51;
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 840px;
+	top: 401px;
+	overflow: visible;
+}
+#User_Name {
+	left: 894px;
+	top: 292px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(97,112,119,1);
+}
+#Password {
+	left: 894px;
+	top: 402px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(98,112,119,1);
+}
+#M_ {
+	opacity: 0.07;
+	left: 24px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Stencil Std;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 317px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__2 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1127px;
+	top: 61px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Rectangle_2_ba {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Home_bb {
+	left: 1188px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Dont_have_Account_ {
+	left: 811px;
+	top: 612px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Component_2__3 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1067px;
+	top: 598px;
+	overflow: visible;
+}
+#Rectangle_2_be {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_be {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#SIGN_UP_bf {
+	left: 1114px;
+	top: 611px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__4 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 895px;
+	top: 503px;
+	overflow: visible;
+}
+#Rectangle_2_bh {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bh {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_in_bi {
+	left: 952px;
+	top: 517px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
