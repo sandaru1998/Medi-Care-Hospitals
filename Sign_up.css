@@ -1,0 +1,405 @@
+.mediaViewInfo {
+	--web-view-name: Sign up;
+	--web-view-id: Sign_up;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_up;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_up {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sign up;
+	--web-view-id: Sign_up;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_2 {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 991.909px;
+	height: 882.827px;
+	left: 398.757px;
+	top: -56.697px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MEDI_CARE {
+	left: 85px;
+	top: 164px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(120,201,237,1);
+}
+#H_O_S_P_I_T_A_L_S {
+	left: 122px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(120,201,237,1);
+}
+#SIGN_UP {
+	left: 835px;
+	top: 130px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 279px;
+}
+#Rectangle_3_n {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_n {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 495px;
+}
+#Rectangle_3_o {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_o {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 810px;
+	top: 207px;
+}
+#Rectangle_3_p {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_p {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 351px;
+}
+#Rectangle_3_q {
+	fill: rgba(199,229,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_q {
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 64px;
+	left: 811px;
+	top: 423px;
+}
+#Component_2__5 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1127px;
+	top: 61px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Home {
+	left: 1188px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Name {
+	left: 736px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Email {
+	left: 737px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Password {
+	left: 695px;
+	top: 440px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Confirm_Password {
+	left: 611px;
+	top: 512px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#User_Name {
+	left: 683px;
+	top: 296px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Component_2__6 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 926px;
+	top: 581px;
+	overflow: visible;
+}
+#Rectangle_2_ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#SIGN_UP_ {
+	left: 973px;
+	top: 595px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Already_Sign_ {
+	left: 758px;
+	top: 672px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Component_2__7 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 926px;
+	top: 660px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign_in.html;
+	cursor: pointer;
+}
+#Rectangle_2_ba {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_in {
+	left: 980px;
+	top: 672px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#M {
+	opacity: 0.07;
+	left: 24px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Stencil Std;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 317px;
+	color: rgba(31,166,226,1);
+}
