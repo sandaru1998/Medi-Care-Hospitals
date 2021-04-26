@@ -1,0 +1,257 @@
+.mediaViewInfo {
+	--web-view-name: Patient;
+	--web-view-id: Patient;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Patient;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Patient {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Patient;
+	--web-view-id: Patient;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#MEDI_CARE {
+	left: 60px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(120,201,237,1);
+}
+#H_O_S_P_I_T_A_L_S {
+	left: 105px;
+	top: 127px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(120,201,237,1);
+}
+#Path_2 {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 991.909px;
+	height: 882.828px;
+	left: 398.757px;
+	top: -56.697px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_2__8 {
+	position: absolute;
+	width: 244px;
+	height: 58px;
+	left: 744px;
+	top: 142px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Test_Report {
+	left: 803px;
+	top: 157px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__9 {
+	position: absolute;
+	width: 244px;
+	height: 58px;
+	left: 742px;
+	top: 216px;
+	overflow: visible;
+}
+#Rectangle_2_r {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_r {
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Pharmacies {
+	left: 801px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__10 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1035px;
+	top: 661px;
+	overflow: visible;
+}
+#Rectangle_2_u {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_u {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Back {
+	left: 1099px;
+	top: 675px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__11 {
+	position: absolute;
+	width: 244px;
+	height: 58px;
+	left: 744px;
+	top: 289px;
+	overflow: visible;
+}
+#Rectangle_2_x {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_x {
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Available_Doctors {
+	left: 775px;
+	top: 303px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,166,226,1);
+}
+#M {
+	opacity: 0.05;
+	left: 30px;
+	top: 319px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Stencil Std;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 317px;
+	color: rgba(31,166,226,1);
+}
