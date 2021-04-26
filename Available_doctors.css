@@ -1,0 +1,255 @@
+.mediaViewInfo {
+	--web-view-name: Available doctors;
+	--web-view-id: Available_doctors;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Available_doctors;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Available_doctors {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Available doctors;
+	--web-view-id: Available_doctors;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_24 {
+	position: absolute;
+	width: 177px;
+	height: 51px;
+	left: 37px;
+	top: 55px;
+	overflow: visible;
+}
+#MEDI_CARE {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(120,201,237,1);
+}
+#H_O_S_P_I_T_A_L_S {
+	left: 28px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(120,201,237,1);
+}
+#Group_26 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1121px;
+	top: 55px;
+	overflow: visible;
+}
+#Component_2__21 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Back {
+	left: 63px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Available_Doctors {
+	left: 534px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(36,153,204,1);
+}
+#surgeon-doctor-pngrepo-com {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 105px;
+	top: 213px;
+	overflow: visible;
+}
+#surgeon-doctor-pngrepo-com_x {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 105px;
+	top: 384px;
+	overflow: visible;
+}
+#surgeon-doctor-pngrepo-com_y {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 105px;
+	top: 555px;
+	overflow: visible;
+}
+#Dr_AHMP_ANURUDDHA_Surgeon {
+	left: 269px;
+	top: 228px;
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
+#Dr_ANANDA_LAMAHEWAGE_Pediatric {
+	left: 269px;
+	top: 572px;
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
+#Dr_ACHALA_BALASURIYA_Physician {
+	left: 269px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
+#surgeon-doctor-pngrepo-com_ {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 727px;
+	top: 213px;
+	overflow: visible;
+}
+#surgeon-doctor-pngrepo-com_ba {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 727px;
+	top: 384px;
+	overflow: visible;
+}
+#surgeon-doctor-pngrepo-com_bb {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 727px;
+	top: 555px;
+	overflow: visible;
+}
+#Dr_AYESHA_THAJUDEEN_Dental_Sur {
+	left: 891px;
+	top: 228px;
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
+#Dr_HK_DE_S_KULARATNE_Neuro_Sur {
+	left: 891px;
+	top: 572px;
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
+#Dr_CAB_MAKULOLUWA_Eye_Surgeon {
+	left: 891px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(36,153,204,1);
+}
