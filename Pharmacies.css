@@ -1,0 +1,145 @@
+.mediaViewInfo {
+	--web-view-name: Pharmacies;
+	--web-view-id: Pharmacies;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Pharmacies;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Pharmacies {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Pharmacies;
+	--web-view-id: Pharmacies;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_21 {
+	position: absolute;
+	width: 177px;
+	height: 51px;
+	left: 37px;
+	top: 36px;
+	overflow: visible;
+}
+#MEDI_CARE {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 Blk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(120,201,237,1);
+}
+#H_O_S_P_I_T_A_L_S {
+	left: 28px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(120,201,237,1);
+}
+#PHARMACIES {
+	left: 553px;
+	top: 66px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 36px;
+	color: rgba(0,76,255,1);
+}
+#Colombo_district_location_map {
+	position: absolute;
+	width: 854px;
+	height: 586.5px;
+	left: 256px;
+	top: 138px;
+	overflow: visible;
+}
+#Group_22 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1136px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Patient.html;
+	cursor: pointer;
+}
+#Component_2__18 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Back {
+	left: 63px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
