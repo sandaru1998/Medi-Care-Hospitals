@@ -1,6 +1,7 @@
 .mediaViewInfo {
 	--web-view-name: Sign in;
 	--web-view-id: Sign_in;
+	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -20,6 +21,7 @@
 	overflow: hidden;
 	--web-view-name: Sign in;
 	--web-view-id: Sign_in;
+	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -50,7 +52,7 @@
 	top: -56.697px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#MEDI_CARE_z {
+#MEDI_CARE_ {
 	left: 85px;
 	top: 164px;
 	position: absolute;
@@ -174,7 +176,7 @@
 	font-size: 28px;
 	color: rgba(98,112,119,1);
 }
-#M_ {
+#M_bd {
 	opacity: 0.07;
 	left: 24px;
 	top: 368px;
@@ -201,7 +203,7 @@
 	--web-action-target: Home.html;
 	cursor: pointer;
 }
-#Rectangle_2_ba {
+#Rectangle_2_bf {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -210,7 +212,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_ba {
+.Rectangle_2_bf {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -218,7 +220,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Home_bb {
+#Home_bg {
 	left: 1188px;
 	top: 75px;
 	position: absolute;
@@ -254,7 +256,7 @@
 	top: 598px;
 	overflow: visible;
 }
-#Rectangle_2_be {
+#Rectangle_2_bj {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -263,7 +265,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_be {
+.Rectangle_2_bj {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -271,13 +273,17 @@
 	left: 0px;
 	top: 0px;
 }
-#SIGN_UP_bf {
+#SIGN_UP_bk {
 	left: 1114px;
 	top: 611px;
 	position: absolute;
 	overflow: visible;
 	width: 87px;
 	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign up.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
 	font-style: normal;
@@ -289,11 +295,11 @@
 	position: absolute;
 	width: 179px;
 	height: 58px;
-	left: 895px;
-	top: 503px;
+	left: 899px;
+	top: 499px;
 	overflow: visible;
 }
-#Rectangle_2_bh {
+#Rectangle_2_bm {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -302,7 +308,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_bh {
+.Rectangle_2_bm {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -310,9 +316,9 @@
 	left: 0px;
 	top: 0px;
 }
-#Sign_in_bi {
-	left: 952px;
-	top: 517px;
+#Sign_in_bn {
+	left: 953px;
+	top: 513px;
 	position: absolute;
 	overflow: visible;
 	width: 73px;

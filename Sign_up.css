@@ -34,7 +34,7 @@
 	}
 
 }
-#Path_2 {
+#Path_2_bq {
 	fill: rgba(120,201,237,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -43,16 +43,16 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_2 {
+.Path_2_bq {
 	overflow: visible;
 	position: absolute;
 	width: 991.909px;
 	height: 882.827px;
-	left: 398.757px;
+	left: 420.757px;
 	top: -56.697px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#MEDI_CARE {
+#MEDI_CARE_br {
 	left: 85px;
 	top: 164px;
 	position: absolute;
@@ -66,7 +66,7 @@
 	font-size: 50px;
 	color: rgba(120,201,237,1);
 }
-#H_O_S_P_I_T_A_L_S {
+#H_O_S_P_I_T_A_L_S_bs {
 	left: 122px;
 	top: 224px;
 	position: absolute;
@@ -80,7 +80,7 @@
 	font-size: 25px;
 	color: rgba(120,201,237,1);
 }
-#SIGN_UP {
+#SIGN_UP_bt {
 	left: 835px;
 	top: 130px;
 	position: absolute;
@@ -94,7 +94,7 @@
 	font-size: 28px;
 	color: rgba(255,255,255,1);
 }
-#Rectangle_3 {
+#Rectangle_3_bu {
 	fill: rgba(199,229,242,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -103,7 +103,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3 {
+.Rectangle_3_bu {
 	position: absolute;
 	overflow: visible;
 	width: 378px;
@@ -111,7 +111,7 @@
 	left: 811px;
 	top: 279px;
 }
-#Rectangle_3_n {
+#Rectangle_3_bv {
 	fill: rgba(199,229,242,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -120,7 +120,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3_n {
+.Rectangle_3_bv {
 	position: absolute;
 	overflow: visible;
 	width: 378px;
@@ -128,7 +128,7 @@
 	left: 811px;
 	top: 495px;
 }
-#Rectangle_3_o {
+#Rectangle_3_bw {
 	fill: rgba(199,229,242,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -137,7 +137,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3_o {
+.Rectangle_3_bw {
 	position: absolute;
 	overflow: visible;
 	width: 378px;
@@ -145,7 +145,7 @@
 	left: 810px;
 	top: 207px;
 }
-#Rectangle_3_p {
+#Rectangle_3_bx {
 	fill: rgba(199,229,242,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -154,7 +154,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3_p {
+.Rectangle_3_bx {
 	position: absolute;
 	overflow: visible;
 	width: 378px;
@@ -162,7 +162,7 @@
 	left: 811px;
 	top: 351px;
 }
-#Rectangle_3_q {
+#Rectangle_3_by {
 	fill: rgba(199,229,242,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -171,7 +171,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3_q {
+.Rectangle_3_by {
 	position: absolute;
 	overflow: visible;
 	width: 378px;
@@ -191,7 +191,7 @@
 	--web-action-target: Home.html;
 	cursor: pointer;
 }
-#Rectangle_2 {
+#Rectangle_2_b {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -200,7 +200,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2 {
+.Rectangle_2_b {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -208,7 +208,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Home {
+#Home_b {
 	left: 1188px;
 	top: 75px;
 	position: absolute;
@@ -250,7 +250,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Password {
+#Password_b {
 	left: 695px;
 	top: 440px;
 	position: absolute;
@@ -278,7 +278,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#User_Name {
+#User_Name_b {
 	left: 683px;
 	top: 296px;
 	position: absolute;
@@ -300,7 +300,7 @@
 	top: 581px;
 	overflow: visible;
 }
-#Rectangle_2_ {
+#Rectangle_2_ca {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -309,7 +309,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_ {
+.Rectangle_2_ca {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -317,7 +317,7 @@
 	left: 0px;
 	top: 0px;
 }
-#SIGN_UP_ {
+#SIGN_UP_b {
 	left: 973px;
 	top: 595px;
 	position: absolute;
@@ -357,7 +357,7 @@
 	--web-action-target: Sign_in.html;
 	cursor: pointer;
 }
-#Rectangle_2_ba {
+#Rectangle_2_cc {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -366,7 +366,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_ba {
+.Rectangle_2_cc {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -374,7 +374,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Sign_in {
+#Sign_in_cd {
 	left: 980px;
 	top: 672px;
 	position: absolute;
@@ -388,7 +388,7 @@
 	font-size: 25px;
 	color: rgba(31,166,226,1);
 }
-#M {
+#M_ce {
 	opacity: 0.07;
 	left: 24px;
 	top: 368px;

@@ -165,6 +165,10 @@
 	overflow: visible;
 	width: 87px;
 	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign up.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
 	font-style: normal;
@@ -180,7 +184,7 @@
 	top: 368px;
 	overflow: visible;
 }
-#MEDI_CARE_s {
+#MEDI_CARE_x {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -194,7 +198,7 @@
 	font-size: 30px;
 	color: rgba(104,127,138,1);
 }
-#H_O_S_P_I_T_A_L_S_t {
+#H_O_S_P_I_T_A_L_S_y {
 	left: 201px;
 	top: 9px;
 	position: absolute;

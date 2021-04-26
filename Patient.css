@@ -34,9 +34,17 @@
 	}
 
 }
-#MEDI_CARE {
+#Group_2 {
+	position: absolute;
+	width: 306px;
+	height: 90px;
 	left: 60px;
 	top: 67px;
+	overflow: visible;
+}
+#MEDI_CARE_ci {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
 	width: 307px;
@@ -48,9 +56,9 @@
 	font-size: 50px;
 	color: rgba(120,201,237,1);
 }
-#H_O_S_P_I_T_A_L_S {
-	left: 105px;
-	top: 127px;
+#H_O_S_P_I_T_A_L_S_cj {
+	left: 45px;
+	top: 60px;
 	position: absolute;
 	overflow: visible;
 	width: 217px;
@@ -62,7 +70,7 @@
 	font-size: 25px;
 	color: rgba(120,201,237,1);
 }
-#Path_2 {
+#Path_2_ck {
 	fill: rgba(120,201,237,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -71,7 +79,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_2 {
+.Path_2_ck {
 	overflow: visible;
 	position: absolute;
 	width: 991.909px;
@@ -88,7 +96,7 @@
 	top: 142px;
 	overflow: visible;
 }
-#Rectangle_2 {
+#Rectangle_2_cm {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -97,7 +105,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2 {
+.Rectangle_2_cm {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -127,7 +135,7 @@
 	top: 216px;
 	overflow: visible;
 }
-#Rectangle_2_r {
+#Rectangle_2_cp {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -136,7 +144,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_r {
+.Rectangle_2_cp {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -166,7 +174,7 @@
 	top: 661px;
 	overflow: visible;
 }
-#Rectangle_2_u {
+#Rectangle_2_cs {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -175,7 +183,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_u {
+.Rectangle_2_cs {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -209,7 +217,7 @@
 	top: 289px;
 	overflow: visible;
 }
-#Rectangle_2_x {
+#Rectangle_2_cv {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -218,7 +226,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_x {
+.Rectangle_2_cv {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -240,7 +248,7 @@
 	font-size: 25px;
 	color: rgba(31,166,226,1);
 }
-#M {
+#M_cx {
 	opacity: 0.05;
 	left: 30px;
 	top: 319px;

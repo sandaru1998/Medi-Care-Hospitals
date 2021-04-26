@@ -34,7 +34,7 @@
 	}
 
 }
-#Path_2 {
+#Path_2_fc {
 	fill: rgba(120,201,237,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -43,7 +43,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_2 {
+.Path_2_fc {
 	overflow: visible;
 	position: absolute;
 	width: 991.909px;
@@ -60,7 +60,7 @@
 	top: 57px;
 	overflow: visible;
 }
-#MEDI_CARE {
+#MEDI_CARE_fe {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -74,7 +74,7 @@
 	font-size: 36px;
 	color: rgba(120,201,237,1);
 }
-#H_O_S_P_I_T_A_L_S {
+#H_O_S_P_I_T_A_L_S_ff {
 	left: 33px;
 	top: 44px;
 	position: absolute;
@@ -88,7 +88,7 @@
 	font-size: 18px;
 	color: rgba(120,201,237,1);
 }
-#Doctor_p {
+#Doctor_fg {
 	left: 710px;
 	top: 57px;
 	position: absolute;
@@ -102,12 +102,12 @@
 	font-size: 45px;
 	color: rgba(255,255,255,1);
 }
-#Patient_ID {
-	left: 597px;
-	top: 236px;
+#Patient_NIC {
+	left: 580px;
+	top: 244px;
 	position: absolute;
 	overflow: visible;
-	width: 122px;
+	width: 143px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Swis721 LtEx BT;
@@ -141,7 +141,7 @@
 	top: 228px;
 	overflow: visible;
 }
-#Rectangle_2 {
+#Rectangle_2_fk {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -150,7 +150,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2 {
+.Rectangle_2_fk {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -188,7 +188,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_2_x {
+#Rectangle_2_fo {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -197,7 +197,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_x {
+.Rectangle_2_fo {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -235,7 +235,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_2_ {
+#Rectangle_2_fs {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -244,7 +244,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_ {
+.Rectangle_2_fs {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -286,7 +286,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_2_ba {
+#Rectangle_2_fw {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -295,7 +295,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_ba {
+.Rectangle_2_fw {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -303,7 +303,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Back {
+#Back_fx {
 	left: 64px;
 	top: 14px;
 	position: absolute;

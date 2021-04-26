@@ -24,7 +24,17 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#MEDI_CARE {
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#MEDI_CARE_c {
 	left: 37px;
 	top: 29px;
 	position: absolute;
@@ -38,7 +48,7 @@
 	font-size: 29px;
 	color: rgba(120,201,237,1);
 }
-#H_O_S_P_I_T_A_L_S {
+#H_O_S_P_I_T_A_L_S_c {
 	left: 65px;
 	top: 64px;
 	position: absolute;
@@ -137,7 +147,7 @@
 	left: 1086px;
 	top: 109px;
 }
-#Name {
+#Name_c {
 	left: 488px;
 	top: 123px;
 	position: absolute;
@@ -193,7 +203,7 @@
 	font-size: 19px;
 	color: rgba(120,201,237,1);
 }
-#Email {
+#Email_db {
 	left: 947px;
 	top: 125px;
 	position: absolute;
@@ -1069,7 +1079,7 @@
 	font-size: 19px;
 	color: rgba(27,214,21,1);
 }
-#INDICATORS_cd {
+#INDICATORS_et {
 	left: 553px;
 	top: 394px;
 	position: absolute;
@@ -1083,7 +1093,7 @@
 	font-size: 19px;
 	color: rgba(27,214,21,1);
 }
-#VALUES_ce {
+#VALUES_eu {
 	left: 805px;
 	top: 394px;
 	position: absolute;
@@ -1097,7 +1107,7 @@
 	font-size: 19px;
 	color: rgba(27,214,21,1);
 }
-#INDICATORS_cf {
+#INDICATORS_ev {
 	left: 946px;
 	top: 394px;
 	position: absolute;
@@ -1111,7 +1121,7 @@
 	font-size: 19px;
 	color: rgba(27,214,21,1);
 }
-#VALUES_cg {
+#VALUES_ew {
 	left: 1198px;
 	top: 394px;
 	position: absolute;
@@ -1250,4 +1260,55 @@
 	font-weight: lighter;
 	font-size: 36px;
 	color: rgba(0,76,255,1);
+}
+#Group_18 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 1136px;
+	top: 29px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Patient.html;
+	cursor: pointer;
+}
+#Component_2__17 {
+	position: absolute;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2_e {
+	fill: rgba(120,201,237,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_e {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Back_e {
+	left: 63px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
 }
