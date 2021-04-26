@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Register for hospital;
-	--web-view-id: Register_for_hospital;
+	--web-view-name: register for hospital;
+	--web-view-id: register_for_hospital;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Register_for_hospital;
+	--web-view-ids: register_for_hospital;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Register_for_hospital {
+#register_for_hospital {
 	position: absolute;
 	width: 1366px;
 	height: 768px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Register for hospital;
-	--web-view-id: Register_for_hospital;
+	--web-view-name: register for hospital;
+	--web-view-id: register_for_hospital;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -36,9 +36,9 @@
 }
 #Group_27 {
 	position: absolute;
-	width: 306px;
-	height: 90px;
-	left: 60px;
+	width: 177px;
+	height: 51px;
+	left: 56px;
 	top: 57px;
 	overflow: visible;
 }
@@ -47,30 +47,30 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 307px;
+	width: 178px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Swis721 Blk BT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 50px;
+	font-size: 29px;
 	color: rgba(120,201,237,1);
 }
 #H_O_S_P_I_T_A_L_S {
-	left: 45px;
-	top: 60px;
+	left: 28px;
+	top: 35px;
 	position: absolute;
 	overflow: visible;
-	width: 217px;
+	width: 122px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Swis721 LtEx BT;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 25px;
+	font-size: 14px;
 	color: rgba(120,201,237,1);
 }
-#Rectangle_79 {
+#Rectangle_61 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -79,15 +79,15 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_79 {
+.Rectangle_61 {
 	position: absolute;
 	overflow: visible;
-	width: 368px;
+	width: 448px;
 	height: 50px;
-	left: 279px;
-	top: 237px;
+	left: 275px;
+	top: 202px;
 }
-#Rectangle_80 {
+#Rectangle_62 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -96,15 +96,15 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_80 {
+.Rectangle_62 {
 	position: absolute;
 	overflow: visible;
-	width: 368px;
+	width: 448px;
 	height: 50px;
-	left: 279px;
-	top: 303px;
+	left: 275px;
+	top: 268px;
 }
-#Rectangle_81 {
+#Rectangle_63 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -113,17 +113,65 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_81 {
+.Rectangle_63 {
 	position: absolute;
 	overflow: visible;
-	width: 368px;
-	height: 96px;
-	left: 279px;
-	top: 369px;
+	width: 448px;
+	height: 99px;
+	left: 275px;
+	top: 334px;
+}
+#Rectangle_64 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 50px;
+	left: 276px;
+	top: 606px;
+}
+#Rectangle_65 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 50px;
+	left: 276px;
+	top: 474px;
+}
+#First_Name {
+	left: 130px;
+	top: 216px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(120,201,237,1);
 }
 #NIC_Number {
-	left: 117px;
-	top: 499px;
+	left: 131px;
+	top: 554px;
 	position: absolute;
 	overflow: visible;
 	width: 123px;
@@ -135,99 +183,9 @@
 	font-size: 19px;
 	color: rgba(120,201,237,1);
 }
-#Address {
-	left: 159px;
-	top: 387px;
-	position: absolute;
-	overflow: visible;
-	width: 82px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Swis721 LtEx BT;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 19px;
-	color: rgba(120,201,237,1);
-}
-#Email {
-	left: 183px;
-	top: 561px;
-	position: absolute;
-	overflow: visible;
-	width: 55px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Swis721 LtEx BT;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 19px;
-	color: rgba(120,201,237,1);
-}
-#Rectangle_84 {
-	fill: rgba(255,255,255,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_84 {
-	position: absolute;
-	overflow: visible;
-	width: 368px;
-	height: 50px;
-	left: 279px;
-	top: 547px;
-}
-#Rectangle_101 {
-	fill: rgba(255,255,255,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_101 {
-	position: absolute;
-	overflow: visible;
-	width: 368px;
-	height: 50px;
-	left: 279px;
-	top: 481px;
-}
-#First_Name {
-	left: 135px;
-	top: 251px;
-	position: absolute;
-	overflow: visible;
-	width: 108px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Swis721 LtEx BT;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 19px;
-	color: rgba(120,201,237,1);
-}
-#Last_Name {
-	left: 132px;
-	top: 317px;
-	position: absolute;
-	overflow: visible;
-	width: 109px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Swis721 LtEx BT;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 19px;
-	color: rgba(120,201,237,1);
-}
 #Mobile {
-	left: 172px;
-	top: 627px;
+	left: 131px;
+	top: 628px;
 	position: absolute;
 	overflow: visible;
 	width: 66px;
@@ -239,29 +197,12 @@
 	font-size: 19px;
 	color: rgba(120,201,237,1);
 }
-#Rectangle_102 {
-	fill: rgba(255,255,255,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_102 {
+#Address {
+	left: 130px;
+	top: 346px;
 	position: absolute;
 	overflow: visible;
-	width: 368px;
-	height: 50px;
-	left: 279px;
-	top: 613px;
-}
-#Upload__Your_photo {
-	left: 782px;
-	top: 265px;
-	position: absolute;
-	overflow: visible;
-	width: 108px;
+	width: 82px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Swis721 LtEx BT;
@@ -270,7 +211,21 @@
 	font-size: 19px;
 	color: rgba(120,201,237,1);
 }
-#Rectangle_103 {
+#DOB {
+	left: 131px;
+	top: 480px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(120,201,237,1);
+}
+#Rectangle_66 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -279,41 +234,80 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_103 {
+.Rectangle_66 {
 	position: absolute;
 	overflow: visible;
-	width: 277px;
-	height: 296px;
-	left: 928px;
-	top: 251px;
+	width: 447px;
+	height: 50px;
+	left: 276px;
+	top: 540px;
 }
-#Upload__Your_photo__Here {
-	left: 1013px;
-	top: 369px;
+#Last_Name {
+	left: 130px;
+	top: 282px;
 	position: absolute;
 	overflow: visible;
-	width: 113px;
+	width: 109px;
 	white-space: nowrap;
-	text-align: center;
+	text-align: left;
 	font-family: Swis721 LtEx BT;
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 19px;
 	color: rgba(120,201,237,1);
 }
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 297px;
+	left: 927px;
+	top: 202px;
+}
+#Upload_photo_here {
+	left: 1027px;
+	top: 324px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Swis721 LtEx BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(120,201,237,1);
+}
 #Group_22 {
 	position: absolute;
 	width: 179px;
+	height: 569px;
+	left: 1027px;
+	top: 83px;
+	overflow: visible;
+}
+#Group_28 {
+	position: absolute;
+	width: 179px;
 	height: 58px;
-	left: 1156px;
-	top: 64px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: Patient.html;
 	cursor: pointer;
 }
-#Component_2__23 {
+#Component_2__22 {
 	position: absolute;
 	width: 179px;
 	height: 58px;
@@ -339,8 +333,8 @@
 	top: 0px;
 }
 #Back {
-	left: 59px;
-	top: 12px;
+	left: 64px;
+	top: 14px;
 	position: absolute;
 	overflow: visible;
 	width: 53px;
@@ -352,15 +346,15 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Group_28 {
+#Group_29 {
 	position: absolute;
 	width: 179px;
 	height: 58px;
-	left: 1026px;
-	top: 609px;
+	left: 0px;
+	top: 511px;
 	overflow: visible;
 }
-#Component_2__24 {
+#Component_2__23 {
 	position: absolute;
 	width: 179px;
 	height: 58px;
@@ -385,12 +379,12 @@
 	left: 0px;
 	top: 0px;
 }
-#Upload {
-	left: 53px;
+#Submit {
+	left: 54px;
 	top: 14px;
 	position: absolute;
 	overflow: visible;
-	width: 74px;
+	width: 73px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
@@ -398,18 +392,4 @@
 	font-weight: normal;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
-}
-#PATIENT_REGISTER {
-	left: 543px;
-	top: 126px;
-	position: absolute;
-	overflow: visible;
-	width: 366px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Swis721 LtEx BT;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 36px;
-	color: rgba(0,76,255,1);
 }

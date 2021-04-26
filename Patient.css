@@ -42,7 +42,7 @@
 	top: 67px;
 	overflow: visible;
 }
-#MEDI_CARE_ci {
+#MEDI_CARE {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -56,7 +56,7 @@
 	font-size: 50px;
 	color: rgba(120,201,237,1);
 }
-#H_O_S_P_I_T_A_L_S_cj {
+#H_O_S_P_I_T_A_L_S {
 	left: 45px;
 	top: 60px;
 	position: absolute;
@@ -70,7 +70,7 @@
 	font-size: 25px;
 	color: rgba(120,201,237,1);
 }
-#Path_2_ck {
+#Path_2 {
 	fill: rgba(120,201,237,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -79,7 +79,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_2_ck {
+.Path_2 {
 	overflow: visible;
 	position: absolute;
 	width: 991.909px;
@@ -92,11 +92,11 @@
 	position: absolute;
 	width: 244px;
 	height: 58px;
-	left: 744px;
-	top: 142px;
+	left: 791px;
+	top: 290px;
 	overflow: visible;
 }
-#Rectangle_2_cm {
+#Rectangle_2 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -105,7 +105,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_cm {
+.Rectangle_2 {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -114,8 +114,8 @@
 	top: 0px;
 }
 #Test_Report {
-	left: 803px;
-	top: 157px;
+	left: 850px;
+	top: 305px;
 	position: absolute;
 	overflow: visible;
 	width: 121px;
@@ -131,11 +131,11 @@
 	position: absolute;
 	width: 244px;
 	height: 58px;
-	left: 742px;
-	top: 216px;
+	left: 789px;
+	top: 364px;
 	overflow: visible;
 }
-#Rectangle_2_cp {
+#Rectangle_2_x {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -144,7 +144,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_cp {
+.Rectangle_2_x {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -153,12 +153,16 @@
 	top: 0px;
 }
 #Pharmacies {
-	left: 801px;
-	top: 230px;
+	left: 848px;
+	top: 378px;
 	position: absolute;
 	overflow: visible;
 	width: 123px;
 	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pharmacies.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
 	font-style: normal;
@@ -174,7 +178,7 @@
 	top: 661px;
 	overflow: visible;
 }
-#Rectangle_2_cs {
+#Rectangle_2_ {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -183,7 +187,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_cs {
+.Rectangle_2_ {
 	position: absolute;
 	overflow: visible;
 	width: 179px;
@@ -213,11 +217,15 @@
 	position: absolute;
 	width: 244px;
 	height: 58px;
-	left: 744px;
-	top: 289px;
+	left: 791px;
+	top: 437px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Available_doctors.html;
+	cursor: pointer;
 }
-#Rectangle_2_cv {
+#Rectangle_2_ba {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -226,7 +234,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_2_cv {
+.Rectangle_2_ba {
 	position: absolute;
 	overflow: visible;
 	width: 244px;
@@ -235,8 +243,8 @@
 	top: 0px;
 }
 #Available_Doctors {
-	left: 775px;
-	top: 303px;
+	left: 822px;
+	top: 451px;
 	position: absolute;
 	overflow: visible;
 	width: 183px;
@@ -248,7 +256,7 @@
 	font-size: 25px;
 	color: rgba(31,166,226,1);
 }
-#M_cx {
+#M {
 	opacity: 0.05;
 	left: 30px;
 	top: 319px;
@@ -261,5 +269,48 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 317px;
+	color: rgba(31,166,226,1);
+}
+#Component_2__24 {
+	position: absolute;
+	width: 244px;
+	height: 58px;
+	left: 787px;
+	top: 215px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Available_doctors.html;
+	cursor: pointer;
+}
+#Rectangle_2_bb {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bb {
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Register_for_Hospital_ {
+	left: 796px;
+	top: 232px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Swis721 BlkCn BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
 	color: rgba(31,166,226,1);
 }
