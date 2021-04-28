@@ -140,7 +140,7 @@
 	left: 0px;
 	top: 0px;
 }
-#SIGN_IN {
+#signin {
 	left: 915px;
 	top: 72px;
 	position: absolute;
@@ -149,7 +149,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Sign_in.html;
+	--web-action-target: Signin.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
@@ -167,7 +167,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Sign up.html;
+	--web-action-target: Signup.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Swis721 BlkCn BT;
